@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<m-card imgSrc="/mooc1-1UI/1.png" summary="C语言"/>
+<m-card imgSrc="/mooc-ui/1.png" summary="C语言"/>
 
 ### 代码
 ```html
