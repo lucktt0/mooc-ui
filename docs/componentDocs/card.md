@@ -6,7 +6,7 @@
 
 ### 代码
 ```html
-<m-card imgSrc="/1.png" summary="C语言"/>
+<m-card imgSrc="/mooc-ui/1.png" summary="C语言"/>
 ```
 
 ### Attributes
